@@ -1,8 +1,6 @@
 /**********************************************
  * Encode.java
  * @author SarahGreen
- * UNI: stg2117
- * COMS 3134 Columbia University, Fall 2013
  *********************************************/
 
 package rsa;
